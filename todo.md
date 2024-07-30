@@ -6,4 +6,4 @@
 
 # To-Dos
 
-- [ ] 1.1 Initial Setup with Typer
+- [x] 1.1 Initial Setup with Typer
