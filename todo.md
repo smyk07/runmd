@@ -7,3 +7,12 @@
 # To-Dos
 
 - [x] 1.1 Initial Setup with Typer
+
+- [ ] 1.2 Figure out how we can:
+
+  - [ ] run the code snippet in the specified runtime / compiler.
+  - [ ] appdend the outputs to a quote directly below the code snippet in the markdown file.
+
+- [ ] 1.3 runmd error handling: return any error to `main.py`
+
+- [ ] 1.4 Hot-reload compiling functionality
